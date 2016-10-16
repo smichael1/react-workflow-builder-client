@@ -10,8 +10,8 @@ Getting started with this repo:
 Checkout this repo, install dependencies
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
+	> git clone git@github.com:smichael1/react-workflow-builder-client.git
+	> cd client
 	> npm install
 	> npm start
 ```
