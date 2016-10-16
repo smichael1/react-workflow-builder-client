@@ -14,4 +14,5 @@ Checkout this repo, install dependencies
 	> cd client
 	> npm install
 	> npm start
+
 ```
